@@ -1,10 +1,6 @@
 ### This project is sample project of using azure cloud service to integrate with web application and using some feature like blob and azure vision. The code here is a sample from azure and has been customized to meet the requirement of the project.
 
----
-services: storage
-platforms: php
-author: roygara
----
+
 
 # Transfer objects to and from Azure Blob storage using PHP
 
